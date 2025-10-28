@@ -7,7 +7,7 @@ Note : les comptes utilisateurs vieux de plus d'une heure sont supprimés automa
 
 
 
-Auteurs : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteurs : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Cloud Password Manager](https://hackropole.fr/fr/challenges/web/fcsc2022-web-cloud-password-manager/)
 
